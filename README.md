@@ -4,7 +4,7 @@ Você pode usar o editor no GitHub (https://github.com/alertaspi/urbimatica.gith
 
 ### Markdown
 
-O Markdown é uma sintaxe leve e fácil de usar para modelar sua escrita. Inclui convenções para bloco de código destacados
+O Markdown é uma sintaxe leve e fácil de usar para modelar sua escrita. Inclui:
 
 # Título 1
 ## Título 2
