@@ -1,38 +1,49 @@
-## Alertas Primeira Infância
+# Alertas Primeira Infância
+Plataforma de integração de dados de pessoas e suas atividades, em prol do desenvolvimento da primeira infancia no Brasil.
 
-Você pode usar o editor no GitHub para manter e visualizar o conteúdo do seu site nos arquivos.
+Este projeto foi produzido Prefeitura Municipal de Boa Vista com apoio da Fundação Bernard Van Leer e Cia Cultura Bola de Meia.
 
-### Markdown
+Seu uso e copia é livre para fins não comerciais.
+Contribuam com a melhoria do projeto.
 
-O Markdown é uma sintaxe leve e fácil de usar para modelar sua escrita.
+## Como replicar o projeto
+Para facilitar a replicação do projeto estão disponiveis materiais e arquivos:
 
-# Título 1
-## Título 2
-### Título 3
+1. Como implantar a tecnologia, conteudo direcionado ao desenvolvedor responsável pela implantação
+- A plataforma - arquitetura
+- Como Instalar
+- Scripts de importação
+- Alterar scripts de importação
+- API
 
-`` Remarcação
+2. Arquivos que compoem a plataforma
+- Front End (adianti com o template)
+- Back End (banco de dados com estrutura de tabelas)
+- Scripts (4 scripts de importação)
 
-- Marcadores em Lista
+3. Como administrar a plataforma, conteudo orientado ao tecnico responsável por manter o funcionamento da plataforma
+- Administrar Sistema provedores de dados
+- Administrar Evento
+- Qualificar de um evento (fatos_dados_tipo)
+- Administrar Indicador
+- Administrar Alertas
+- Administrar telas
+- Grupos de usuários
+- Usuários
+- Categorias de documentos
+- Gerar consulta SQL
+- Entidades
+- Importar evento/atividade/programa
+- Importar cadastros de pessoas
+- Verificar status de upload nas etapas do script de importação
 
-1. Numeração
+4. Manual do usuário, conteudo em pdf (inserir link) direcionado ao usuário final da tecnologia. 
 
-_Texto em Italic_ 
 
-`Códigos`
+### Suporte ou contato com equipe técnica
+Para contato com a equipe de suporte: suporte@urbimatica.com.br
 
-[Link](url)
+![Logotipo](https://raw.githubusercontent.com/alertaspi/Alertas-Primeira-Infancia/master/Logos.png)
 
-Para obter mais detalhes, consulte [a página](https://guides.github.com/features/mastering-markdown/).
 
-### Temas Jekyll
-
-O site do Pages deve usar o layout e os estilos do tema Jekyll que você selecionou nas configurações do [repositório](https://github.com/alertaspi/urbimatica.github.io/settings).
-
-O nome desse tema é salvo no arquivo de configuração Jekyll `_config.yml`.
-
-### Suporte ou contato
-
-Está tendo problemas com o Pages? Confira nossa [documentação](https://help.github.com/categories/github-pages-basics/) ou entre em contato com o suporte no [link](https://github.com/contact).
-
-![Logotipos](https://raw.githubusercontent.com/alertaspi/Alertas-Primeira-Infancia/master/Logos.png)
 
