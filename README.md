@@ -1,7 +1,7 @@
 # Alertas Primeira Infância
 Plataforma de integração de dados de pessoas e suas atividades, em prol do desenvolvimento da primeira infancia no Brasil.
 
-Este projeto foi desenvolvido em conjunto com Fundação Bernard Van Leer e Prefeitura Municipal de Boa Vista sob Gestão da Cia Cultura Bola de Meia.
+Este projeto foi produzido Prefeitura Municipal de Boa Vista com apoio da Fundação Bernard Van Leer e Cia Cultura Bola de Meia.
 
 Seu uso e copia é livre para fins não comerciais.
 Contribuam com a melhoria do projeto.
@@ -40,7 +40,7 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 4. Manual do usuário, conteudo em pdf (inserir link) direcionado ao usuário final da tecnologia. 
 
 
-### Suporte ou contato
+### Suporte ou contato com equipe técnica
 Para contato com a equipe de suporte: suporte@urbimatica.com.br
 
 ![Logotipo](https://raw.githubusercontent.com/alertaspi/Alertas-Primeira-Infancia/master/Logos.png)
