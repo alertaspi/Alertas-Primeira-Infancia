@@ -7,12 +7,22 @@ Seu uso e copia é livre para fins não comerciais.
 Contribuam com a melhoria do projeto.
 
 ## O que a plataforma faz
+Identifica crianças e mães em sistuação de risco ou vulnerabilidade, através do cruzamento de dados de oriundo do setor publico, sejam eles registrados em sistemas locais ou nacionais. 
+
+## Como os dados são apresentadas
+Os resultados desse tratamento de dados são apresentados de 3 formas principais:
+1. Perfil da Primeira Infância, onde apresentam individualmente os codigos de registros de cada pessoa nos sistemas publicos, seus vinculos familiares, os alertas, contato, endereço
+
 
 ## Como ela faz
 
-## Por que adotar essa tecnologia 
+
+## Por que adotar essa tecnologia
+
 
 ## O que é necessário para isso
+
+
 
 ## O que está disponivel sem custo
 Para facilitar a replicação do projeto estão disponiveis materiais e arquivos:
