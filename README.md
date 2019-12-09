@@ -1,4 +1,4 @@
-## Bem-vindo ao GitHub
+## Alertas Primeira Infância
 
 Você pode usar o editor no GitHub para manter e visualizar o conteúdo do seu site nos arquivos.
 
@@ -20,16 +20,16 @@ _Texto em Italic_
 
 `Códigos`
 
-[Link] (url) e [Imagem] (src)
+[Link](url) e ![Imagem](src)
 
-Para obter mais detalhes, consulte: (https://guides.github.com/features/mastering-markdown/)
+Para obter mais detalhes, consulte [a página](https://guides.github.com/features/mastering-markdown/).
 
 ### Temas Jekyll
 
-O site do Pages deve usar o layout e os estilos do tema Jekyll que você selecionou nas configurações do repositório: (https://github.com/alertaspi/urbimatica.github.io/settings)
+O site do Pages deve usar o layout e os estilos do tema Jekyll que você selecionou nas configurações do [repositório](https://github.com/alertaspi/urbimatica.github.io/settings).
 
 O nome desse tema é salvo no arquivo de configuração Jekyll `_config.yml`.
 
 ### Suporte ou contato
 
-Está tendo problemas com o Pages? Confira nossa documentação em (https://help.github.com/categories/github-pages-basics/) ou entre em contato com o suporte: (https://github.com/contact)
+Está tendo problemas com o Pages? Confira nossa [documentação](https://help.github.com/categories/github-pages-basics/) ou entre em contato com o suporte no [link](https://github.com/contact).
