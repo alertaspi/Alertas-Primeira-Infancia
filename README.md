@@ -1,6 +1,6 @@
 ## Bem-vindoao GitHub
 
-Você pode usar o editor no GitHub (https://github.com/alertaspi/urbimatica.github.io/edit/master/README.md) para manter e visualizar o conteúdo do seu site nos arquivos.
+Você pode usar o editor no GitHub para manter e visualizar o conteúdo do seu site nos arquivos.
 
 ### Markdown
 
@@ -24,7 +24,7 @@ _Texto em Italic_
 
 [Link] (url) e! [Imagem] (src)
 
-Para obter mais detalhes, consulte: https://guides.github.com/features/mastering-markdown/).
+Para obter mais detalhes, consulte: https://guides.github.com/features/mastering-markdown/.
 
 Temas Jekyll
 
