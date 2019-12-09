@@ -22,7 +22,7 @@ _Texto em Italic_
 
 [Link] (url) e! [Imagem] (src)
 
-Para obter mais detalhes, consulte: https://guides.github.com/features/mastering-markdown/.
+Para obter mais detalhes, consulte: https://guides.github.com/features/mastering-markdown/
 
 Temas Jekyll
 
