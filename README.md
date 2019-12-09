@@ -1,6 +1,6 @@
 ## Alertas Primeira Infância
 
-Você pode usar o editor no GitHub para manter e visualizar o conteúdo do seu site nos arquivos.
+Você pode usar o editor no GitHub é um teste para manter e visualizar o conteúdo do seu site nos arquivos.
 
 ### Markdown
 
