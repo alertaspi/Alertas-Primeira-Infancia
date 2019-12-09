@@ -24,7 +24,7 @@ _Texto em Italic_
 
 Para obter mais detalhes, consulte: https://guides.github.com/features/mastering-markdown/
 
-Temas Jekyll
+### Temas Jekyll
 
 O site do Pages deve usar o layout e os estilos do tema Jekyll que você selecionou nas configurações do repositório: https://github.com/alertaspi/urbimatica.github.io/settings. 
 
