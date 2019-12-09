@@ -50,6 +50,6 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 
 
 ### Suporte ou contato com equipe técnica
-Para contato com a equipe de suporte [suporte@urbimatica.com.br](mailto:suporte@urbimatica.com.br)
+Para contato com a equipe de suporte dirija-se a: [suporte@urbimatica.com.br](mailto:suporte@urbimatica.com.br)
 
 ![Logotipo](https://raw.githubusercontent.com/alertaspi/Alertas-Primeira-Infancia/master/Logos.png)
