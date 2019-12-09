@@ -37,7 +37,7 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 - Importar cadastros de pessoas
 - Verificar status de upload nas etapas do script de importação
 
-4. Manual do usuário, conteudo em pdf (inserir link) direcionado ao usuário final da tecnologia. 
+4. [Manual do usuário](inserir link), conteúdo em pdf direcionado ao usuário final da tecnologia.
 - Visualizar Indicadores
 - Visualizar Alertas de risco
 - Buscar pessoas
@@ -49,8 +49,7 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 - Alterar senha
 
 
-
 ### Suporte ou contato com equipe técnica
-Para contato com a equipe de suporte: suporte@urbimatica.com.br
+Para contato com a equipe de suporte [suporte@urbimatica.com.br](mailto:suporte@urbimatica.com.br)
 
 ![Logotipo](https://raw.githubusercontent.com/alertaspi/Alertas-Primeira-Infancia/master/Logos.png)
