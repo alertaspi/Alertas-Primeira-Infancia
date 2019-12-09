@@ -34,4 +34,4 @@ O nome desse tema é salvo no arquivo de configuração Jekyll `_config.yml`.
 
 Está tendo problemas com o Pages? Confira nossa [documentação](https://help.github.com/categories/github-pages-basics/) ou entre em contato com o suporte no [link](https://github.com/contact).
 
-![Imagem](https://drive.google.com/open?id=144PuIvzyV8DRzdfsWtHXVllmr3E56WXH)
+!(https://drive.google.com/open?id=144PuIvzyV8DRzdfsWtHXVllmr3E56WXH)
