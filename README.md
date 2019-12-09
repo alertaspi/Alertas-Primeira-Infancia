@@ -1,4 +1,4 @@
-## Bem-vindoao GitHub
+## Bem-vindo ao GitHub
 
 Você pode usar o editor no GitHub para manter e visualizar o conteúdo do seu site nos arquivos.
 
@@ -16,8 +16,6 @@ O Markdown é uma sintaxe leve e fácil de usar para modelar sua escrita. Inclui
 
 1. Numeração
 
-** Texto em negrito ** 
-
 _Texto em Italic_ 
 
 `Códigos`
@@ -28,7 +26,7 @@ Para obter mais detalhes, consulte: https://guides.github.com/features/mastering
 
 Temas Jekyll
 
-O site do Pages deve usar o layout e os estilos do tema Jekyll que você selecionou nas configurações do repositório:https://github.com/alertaspi/urbimatica.github.io/settings. O nome desse tema é salvo no arquivo de configuração Jekyll `_config.yml`.
+O site do Pages deve usar o layout e os estilos do tema Jekyll que você selecionou nas configurações do repositório: https://github.com/alertaspi/urbimatica.github.io/settings. O nome desse tema é salvo no arquivo de configuração Jekyll `_config.yml`.
 
 ### Suporte ou contato
 
