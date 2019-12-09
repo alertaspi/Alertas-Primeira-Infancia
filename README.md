@@ -38,6 +38,16 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 - Verificar status de upload nas etapas do script de importação
 
 4. Manual do usuário, conteudo em pdf (inserir link) direcionado ao usuário final da tecnologia. 
+- Visualizar Indicadores
+- Visualizar Alertas de risco
+- Buscar pessoas
+- Editar informações de cadastro de pessoa
+- Gerenciar alerta
+- Criar novo de alerta manual para um cadastro existente
+- Enviar documentos
+- Gerar novos relatórios com consulta ao banco de dados - Gerar consulta SQL
+- Alterar senha
+
 
 
 ### Suporte ou contato com equipe técnica
