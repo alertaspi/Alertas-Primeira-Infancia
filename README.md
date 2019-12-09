@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Bem-vindoao GitHub
 
-You can use the [editor on GitHub](https://github.com/alertaspi/urbimatica.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Você pode usar o editor no GitHub (https://github.com/alertaspi/urbimatica.github.io/edit/master/README.md) para manter e visualizar o conteúdo do seu site nos arquivos.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O Markdown é uma sintaxe leve e fácil de usar para modelar sua escrita. Inclui convenções para bloco de código destacados
 
-```markdown
-Syntax highlighted code block
+# Título 1
+## Título 2
+### Título 3
 
-# Header 1
-## Header 2
-### Header 3
+`` Remarcação
 
-- Bulleted
-- List
+- Marcadores em Lista
 
-1. Numbered
-2. List
+1. Numeração
 
-**Bold** and _Italic_ and `Code` text
+** Texto em negrito ** 
 
-[Link](url) and ![Image](src)
-```
+_Texto em Italic_ 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+`Códigos`
 
-### Jekyll Themes
+[Link] (url) e! [Imagem] (src)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alertaspi/urbimatica.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Para obter mais detalhes, consulte [GitHub Flavored Markdown] (https://guides.github.com/features/mastering-markdown/).
 
-### Support or Contact
+Temas Jekyll
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+O site do Pages deve usar o layout e os estilos do tema Jekyll que você selecionou nas [configurações do repositório] (https://github.com/alertaspi/urbimatica.github.io/settings). O nome desse tema é salvo no arquivo de configuração Jekyll `_config.yml`.
+
+### Suporte ou contato
+
+Está tendo problemas com o Pages? Confira nossa documentação em https://help.github.com/categories/github-pages-basics/) ou [entre em contato com o suporte] (https://github.com/contact
