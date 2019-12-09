@@ -34,4 +34,4 @@ O nome desse tema é salvo no arquivo de configuração Jekyll `_config.yml`.
 
 Está tendo problemas com o Pages? Confira nossa [documentação](https://help.github.com/categories/github-pages-basics/) ou entre em contato com o suporte no [link](https://github.com/contact).
 
-![Logotipo](https://raw.githubusercontent.com/alertaspi/Alertas-Primeira-Infancia/master/Logotipo.png)
+![Logotipo](https://raw.githubusercontent.com/alertaspi/Alertas-Primeira-Infancia/master/Logos.png)
