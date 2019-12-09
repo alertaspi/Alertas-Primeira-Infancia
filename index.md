@@ -37,12 +37,12 @@ Para adotar a tecnologia é necessário:
 
 **3. Acesso a dados**, o acesso as bases de dados dos sistemas instalados pode ser gradativo, portanto não se preocupe caso o acesso seja limitado no inicio. Comece e depois evolua inserindo novos sistemas.
 
-## O que está disponivel sem custo
+## O que está disponivel 
 Para facilitar a replicação do projeto disponibilizamos um conjunto de arquivos e documentos (todos estão no Github):
 
-1. Como implantar a tecnologia, conteudo direcionado ao desenvolvedor responsável pela implantação
-2. Arquivos que compoem a plataforma
-3. Como administrar a plataforma, conteudo orientado ao tecnico responsável por manter o funcionamento da plataforma
+1. Wiki's que mostram **como implantar a tecnologia**, conteudo direcionado ao desenvolvedor responsável pela implantação
+2. Arquivos que compoem a parametrização da plataforma, banco de dados, scripts e front end
+3. Wikis's que mostram **como administrar a plataforma**, conteudo orientado ao tecnico responsável por manter o funcionamento da plataforma
 4. [Manual do usuário](inserir link), conteúdo em pdf direcionado ao usuário final da tecnologia.
 
 Sugerimos a equipe de trabalho conhecer o **Guia de Indicadores Urban95 - Boa Vista**
