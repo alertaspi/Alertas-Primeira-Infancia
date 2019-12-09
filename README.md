@@ -26,7 +26,9 @@ Para obter mais detalhes, consulte: https://guides.github.com/features/mastering
 
 Temas Jekyll
 
-O site do Pages deve usar o layout e os estilos do tema Jekyll que você selecionou nas configurações do repositório: https://github.com/alertaspi/urbimatica.github.io/settings. O nome desse tema é salvo no arquivo de configuração Jekyll `_config.yml`.
+O site do Pages deve usar o layout e os estilos do tema Jekyll que você selecionou nas configurações do repositório: https://github.com/alertaspi/urbimatica.github.io/settings. 
+
+O nome desse tema é salvo no arquivo de configuração Jekyll `_config.yml`.
 
 ### Suporte ou contato
 
