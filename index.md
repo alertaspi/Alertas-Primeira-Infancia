@@ -40,15 +40,15 @@ Para adotar a tecnologia é necessário:
 ## O que está disponivel 
 Para facilitar a replicação do projeto disponibilizamos um conjunto de arquivos e documentos (todos estão no Github):
 
-1. Wiki's que mostram **como implantar a tecnologia**, conteudo direcionado ao desenvolvedor responsável pela implantação
+1. [Wiki's](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki) que mostram **como implantar a tecnologia**, conteudo direcionado ao desenvolvedor responsável pela implantação
 2. Arquivos que compoem a parametrização da plataforma, banco de dados, scripts e front end
-3. Wikis's que mostram **como administrar a plataforma**, conteudo orientado ao tecnico responsável por manter o funcionamento da plataforma
+3. [Wiki's](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki) que mostram **como administrar a plataforma**, conteudo orientado ao tecnico responsável por manter o funcionamento da plataforma
 4. [Manual do usuário](inserir link), conteúdo em pdf direcionado ao usuário final da tecnologia.
 
 Sugerimos a equipe de trabalho conhecer o **Guia de Indicadores Urban95 - Boa Vista**
 
 
 ### Suporte ou contato com equipe técnica
-Para contato com a equipe de suporte [suporte@urbimatica.com.br](mailto:suporte@urbimatica.com.br)
+Para contato com a equipe de suporte dirija-se a: [suporte@urbimatica.com.br](mailto:suporte@urbimatica.com.br)
 
 ![Logotipo](https://raw.githubusercontent.com/alertaspi/Alertas-Primeira-Infancia/master/Logos.png)
