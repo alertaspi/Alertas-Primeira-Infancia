@@ -22,20 +22,20 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 - Scripts (4 scripts de importação)
 
 3. Como administrar a plataforma, conteudo orientado ao tecnico responsável por manter o funcionamento da plataforma
-- Administrar Sistema provedores de dados
-- Administrar Evento
-- Qualificar de um evento (fatos_dados_tipo)
-- Administrar Indicador
-- Administrar Alertas
-- Administrar telas
-- Grupos de usuários
-- Usuários
-- Categorias de documentos
+- [Administrar Sistema provedores de dados](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Sistemas-Provedores-de-Dados)
+- [Administrar Evento](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Evento)
+- Qualificar de um evento fatos_dados_tipo
+- [Administrar Indicador](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Indicador)
+- [Administrar Alertas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Alertas)
+- [Administrar telas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Telas)
+- [Grupos de usuários](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Grupos-de-usu%C3%A1rios)
+- [Usuários](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Usu%C3%A1rios)
+- [Categorias de documentos](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Categorias-de-documentos)
 - Gerar consulta SQL
-- Entidades
-- Importar evento/atividade/programa
-- Importar cadastros de pessoas
-- Verificar status de upload nas etapas do script de importação
+- [Entidades](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Entidade)
+- [Importar evento/atividade/programa](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Importar-evento-atividade-programa)
+- [Importar cadastros de pessoas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Importar-cadastros-de-pessoas)
+- [Verificar status de upload nas etapas do script de importação](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Verificar-status-de-upload-nas-etapas-do-script-de-importa%C3%A7%C3%A3o)
 
 4. [Manual do usuário](inserir link), conteúdo em pdf direcionado ao usuário final da tecnologia.
 - Visualizar Indicadores
