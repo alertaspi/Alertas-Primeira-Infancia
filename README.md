@@ -18,20 +18,20 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 
 2. Arquivos que compoem a plataforma
 - [Front End: Adianti com o template](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Front-End:-Adianti-com-o-Template)
-- [Back End: Banco de dados com estrutura de tabelas)](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Back-End:-Banco-de-Dados-com-Estrutura-de-Tabelas)
-- [Scripts: 4 scripts de importação)](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Scripts:-4-Scripts-de-Importa%C3%A7%C3%A3o)
+- [Back End: Banco de dados com estrutura de tabelas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Back-End:-Banco-de-Dados-com-Estrutura-de-Tabelas)
+- [Scripts: 4 scripts de importação](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Scripts:-4-Scripts-de-Importa%C3%A7%C3%A3o)
 
 3. Como administrar a plataforma, conteudo orientado ao tecnico responsável por manter o funcionamento da plataforma
 - [Administrar Sistema provedores de dados](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Sistemas-Provedores-de-Dados)
 - [Administrar Evento](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Evento)
-- Qualificar de um evento fatos_dados_tipo
+- [Qualificar de um evento fatos_dados_tipo](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Qualificar-de-um-Evento:-fatos_dados_tipo)
 - [Administrar Indicador](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Indicador)
 - [Administrar Alertas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Alertas)
 - [Administrar telas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Telas)
 - [Grupos de usuários](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Grupos-de-usu%C3%A1rios)
 - [Usuários](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Usu%C3%A1rios)
 - [Categorias de documentos](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Categorias-de-documentos)
-- Gerar consulta SQL
+- [Gerar consulta SQL](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Gerar-Consulta-SQL)
 - [Entidades](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Entidade)
 - [Importar evento/atividade/programa](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Importar-evento-atividade-programa)
 - [Importar cadastros de pessoas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Importar-cadastros-de-pessoas)
