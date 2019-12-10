@@ -10,11 +10,11 @@ Contribuam com a melhoria do projeto.
 Para facilitar a replicação do projeto estão disponiveis materiais e arquivos:
 
 1. Como implantar a tecnologia, conteudo direcionado ao desenvolvedor responsável pela implantação
-- A plataforma - arquitetura
-- Como Instalar
-- Scripts de importação
-- Alterar scripts de importação
-- API
+- [A Plataforma - Arquitetura](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/A-Plataforma---Arquitetura)
+- [Como Instalar](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Como-Instalar)
+- [Scripts de importação](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Scripts-de-Importa%C3%A7%C3%A3o)
+- [Alterar scripts de importação](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Alterar-Scripts-de-Importa%C3%A7%C3%A3o)
+- [API](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/API)
 
 2. Arquivos que compoem a plataforma
 - Front End (adianti com o template)
