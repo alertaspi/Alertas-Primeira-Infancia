@@ -38,15 +38,15 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 - [Verificar status de upload nas etapas do script de importação](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Verificar-status-de-upload-nas-etapas-do-script-de-importa%C3%A7%C3%A3o)
 
 4. [Manual do usuário](inserir link), conteúdo em pdf direcionado ao usuário final da tecnologia.
-- Visualizar Indicadores
-- Visualizar Alertas de risco
-- Buscar pessoas
-- Editar informações de cadastro de pessoa
-- Gerenciar alerta
-- Criar novo de alerta manual para um cadastro existente
-- Enviar documentos
-- Gerar novos relatórios com consulta ao banco de dados - Gerar consulta SQL
-- Alterar senha
+- [Visualizar Indicadores](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Visualizar-Indicadores)
+- [Visualizar Alertas de risco](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Visualizar-Alertas-de-Risco)
+- [Buscar pessoas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Buscar-Pessoas)
+- [Editar informações de cadastro de pessoa](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Editar-Informa%C3%A7%C3%B5es-de-Cadastro-de-Pessoa)
+- [Gerenciar alerta](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Gerenciar-Alerta)
+- [Criar novo de alerta manual para um cadastro existente](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Criar-Novo-Alerta-Manual-Para-um-Cadastro-Existente)
+- [Enviar documentos](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Enviar-Documentos)
+- [Gerar novos relatórios com consulta ao banco de dados - Gerar consulta SQL](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Gerar-Novos-Relat%C3%B3rios-com-Consulta-ao-Banco-de-Dados---Gerar-consulta-SQL)
+- [Alterar senha](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Alterar-Senha)
 
 
 ### Suporte ou contato com equipe técnica
