@@ -17,9 +17,9 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 - [API](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/API)
 
 2. Arquivos que compoem a plataforma
-- [Front End: Adianti com o template](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Front-End:-Adianti-com-o-Template)
-- [Back End: Banco de dados com estrutura de tabelas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Back-End:-Banco-de-Dados-com-Estrutura-de-Tabelas)
-- [Scripts: 4 scripts de importação](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Scripts:-4-Scripts-de-Importa%C3%A7%C3%A3o)
+- [Front End](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Front-End:-Adianti-com-o-Template)
+- [Back End](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Back-End:-Banco-de-Dados-com-Estrutura-de-Tabelas)
+- [Scripts](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Scripts:-4-Scripts-de-Importa%C3%A7%C3%A3o)
 
 3. Como administrar a plataforma, conteudo orientado ao tecnico responsável por manter o funcionamento da plataforma
 - [Administrar Sistema provedores de dados](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Sistemas-Provedores-de-Dados)
@@ -37,7 +37,7 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 - [Importar cadastros de pessoas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Importar-cadastros-de-pessoas)
 - [Verificar status de upload nas etapas do script de importação](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Verificar-status-de-upload-nas-etapas-do-script-de-importa%C3%A7%C3%A3o)
 
-4. [Manual do usuário](inserir link), conteúdo em pdf direcionado ao usuário final da tecnologia.
+4. Manual do usuário, conteúdo direcionado ao usuário final da tecnologia.
 - [Visualizar Indicadores](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Visualizar-Indicadores)
 - [Visualizar Alertas de risco](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Visualizar-Alertas-de-Risco)
 - [Buscar pessoas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Buscar-Pessoas)
