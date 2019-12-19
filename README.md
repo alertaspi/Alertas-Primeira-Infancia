@@ -13,7 +13,6 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 - [A Plataforma - Arquitetura](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/A-Plataforma---Arquitetura)
 - [Como Instalar](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Como-Instalar)
 - [Scripts de importação](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Scripts-de-Importa%C3%A7%C3%A3o)
-- [Alterar scripts de importação](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Alterar-Scripts-de-Importa%C3%A7%C3%A3o)
 - [API](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/API)
 
 2. Arquivos que compoem a plataforma
@@ -24,7 +23,6 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 3. Como administrar a plataforma, conteudo orientado ao tecnico responsável por manter o funcionamento da plataforma
 - [Administrar Sistema provedores de dados](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Sistemas-Provedores-de-Dados)
 - [Administrar Evento](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Evento)
-- [Qualificar de um evento fatos_dados_tipo](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Qualificar-de-um-Evento:-fatos_dados_tipo)
 - [Administrar Indicador](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Indicador)
 - [Administrar Alertas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Alertas)
 - [Administrar telas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Telas)
@@ -35,7 +33,6 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 - [Entidades](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Entidade)
 - [Importar evento/atividade/programa](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Importar-evento-atividade-programa)
 - [Importar cadastros de pessoas](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Importar-cadastros-de-pessoas)
-- [Verificar status de upload nas etapas do script de importação](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Verificar-status-de-upload-nas-etapas-do-script-de-importa%C3%A7%C3%A3o)
 
 4. Manual do usuário, conteúdo direcionado ao usuário final da tecnologia.
 - [Visualizar Indicadores](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Visualizar-Indicadores)
@@ -45,7 +42,6 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 - [Gerenciar alerta](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Gerenciar-Alerta)
 - [Criar novo de alerta manual para um cadastro existente](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Criar-Novo-Alerta-Manual-Para-um-Cadastro-Existente)
 - [Enviar documentos](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Enviar-Documentos)
-- [Gerar novos relatórios com consulta ao banco de dados - Gerar consulta SQL](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Gerar-Novos-Relat%C3%B3rios-com-Consulta-ao-Banco-de-Dados---Gerar-consulta-SQL)
 - [Alterar senha](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Alterar-Senha)
 
 
