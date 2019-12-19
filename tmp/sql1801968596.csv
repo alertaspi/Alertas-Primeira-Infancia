@@ -1,0 +1,11 @@
+id,nome,descricao,id_origem,data_info,entidade_id,icon_html,url,img
+3,"CADASTRO ÚNICO
+","Cad único",,2019-10-29,1,,,
+2,"CIDADE SOCIAL","Cidade Social",,2019-10-29,1,,,
+4,"MV SOUL – HOSPITALAR","Sistema Hospitalar",,2019-10-29,1,"icon ion-logo-github",http://2132prd.cloudmv.com.br,img/soul_simples.png
+1,"MV SIGSS – ATENÇÃO BÁSICA","Atenção Básica",,2019-10-29,1,,http://2132prd.cloudmv.com.br,"""img/soul_simples.png"""
+5,EDUCAÇÃO,"EDUCA INFANTIL",,2019-10-29,1,,,
+6,"TRANSPARENCIA GF","TRANSPARENCIA GF",,2019-11-09,1,,,
+7,"PESQUISA USP","PESQUISA USP",,2019-11-09,1,,,
+8,MATERNIDADE,MATERNIDADE,,2019-11-10,1,,,
+9,DATASUS,DATASUS,,2019-11-10,1,,,

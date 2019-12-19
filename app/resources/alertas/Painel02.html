@@ -1,0 +1,235 @@
+<!--[main]-->
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3">
+
+                <!-- Profile Image -->
+                <!-- 1.1 Registro no Sistema -->
+                <div class="card card-primary card-outline">
+                    <div class="card-body box-profile">
+                        <h3 class="profile-username text-center">{$nome}</h3>
+
+                        <p class="text-muted text-center">Prontuário</p>
+                        <p class="text-muted text-center">Nacionalidade</p>
+                        <h3 class="card-title">1.1 Registro no Sistema</h3>
+
+                        <ul class="list-group list-group-unbordered mb-3">
+                            <!--[GrfSistema]-->
+                            <li class="list-group-item">
+                                <b href="404.html">{$1}</b> <a class="float-right">{$3}</a>
+                            </li>
+                            <!--[/GrfSistema]-->
+
+                        </ul>
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+
+                <!--1.2 Informações de Contato -->
+                <!-- About Me Box -->
+                <div class="card card-primary">
+                    <div class="card-header">
+                        <h3 class="card-title">1.2 Informações de Contato</h3>
+                    </div>
+                    <!-- /.card-header -->
+                    <div class="card-body">
+                        <strong>Telefone</strong>
+
+                        <p class="text-muted">
+                            {$fone}
+                        </p>
+
+                        <hr>
+
+                        <strong><i class="fas fa-map-marker-alt mr-1"></i> Endereço</strong>
+
+                        <p class="text-muted"><a href="https://www.google.com.br/maps/place/{$endereco}" target="_blank">{$endereco}</a></p>
+
+                        <hr>
+                        <strong>Gestão de Alertas</strong>
+                        <p class="text-muted">
+                        {$btngrisco}
+                        </p>
+
+                        <!--<strong><i class="fas fa-pencil-alt mr-1"></i> UBS Referência</strong>
+
+                        <p class="text-muted">
+                            <span class="tag tag-danger">Nome UBS</span>
+                        </p>
+
+                        <hr>
+
+                        <strong><i class="far fa-file-alt mr-1"></i> CRAS Referência</strong>
+
+                        <p class="text-muted">Nome CRAS</p>
+                        -->
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <!-- /.col -->
+            <div class="col-md-9">
+                <div class="card">
+                    <div class="card-header p-2">
+                        <ul class="nav nav-pills">
+                            <li class="nav-item"><a class="nav-link active" href="#activity" data-toggle="tab">Atividade</a></li>
+                            <li class="nav-item"><a class="nav-link" href="#timeline" data-toggle="tab">Programas</a></li>
+                            <!--<li class="nav-item"><a class="nav-link" href="#settings" data-toggle="tab">Pessoas Relacionadas</a></li>-->
+                        </ul>
+                    </div><!-- /.card-header -->
+                    <div class="card-body">
+                        <div class="tab-content">
+
+                            <!-- 1.6 Atividades -->
+                            <div class="active tab-pane" id="activity">
+                                <!-- Post -->
+                                <div class="card">
+                                    <div class="card-header">
+                                        <h3 class="card-title">1.6 Atividades</h3>
+                                    </div>
+                                    {$grafpessoa}
+
+                                    
+
+                                </div>
+                                <!-- /.post -->
+
+                            </div>
+
+                            <!-- 1.4 Programas Participantes -->
+                            <!-- /.tab-pane -->
+                            <div class="tab-pane" id="timeline">
+                                <!-- The timeline -->
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="card">
+                                            <div class="card-header">
+                                                <h3 class="card-title">1.4 Programas Participantes</h3>
+                                            </div>
+                                            <!-- /.card-header -->
+                                            <div class="card-body table-responsive p-0">
+                                                <table class="table table-hover">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Programa</th>
+                                                            <th>CNS</th>
+                                                            <th>Data Cadastro</th>
+                                                            <th>Última Ataulização</th>
+                                                            <th>Status</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <!--[GrfSistema]-->
+                                                        <tr>
+                                                            <td>{$1}</td>
+                                                            <td>{$2}</td>
+                                                            <td>{$4}</td>
+                                                            <td>{$5}</td>
+                                                            <td>Ativo</td>
+                                                        </tr>                                                                
+                                                        <!--[/GrfSistema]-->
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                            <!-- /.card-body -->
+                                        </div>
+                                        <!-- /.card -->
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /.tab-pane -->
+
+                            <!-- 1.5 Relacionamento Familiar -->
+                            <!--
+                            <div class="tab-pane" id="settings">
+                                
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div class="card">
+                                            <div class="card-header">
+                                                <h3 class="card-title">1.5 Relacionamento Familiar</h3>
+                                            </div>
+                                            
+                                            <div class="card-body table-responsive p-0">
+                                                <table class="table table-hover">
+                                                    <thead>
+                                                        <tr>
+                                                            <th>Relacionamento</th>
+                                                            <th> Nome </th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                        <tr>
+                                                            <td>Mãe de</td>
+                                                            <td>
+                                                                <a href="profile.html" Nome> Maria das Neves</a>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                           
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                                
+                            </div>-->
+                            <!-- /.tab-pane -->
+                        </div>
+                        <!-- /.tab-content -->
+                    </div><!-- /.card-body -->
+                </div>
+
+                <!-- 1.3 Acuracidade Cadastral -->
+                <!-- /.col -->
+                <div class="col-lg-auto">
+                    <div class="card">
+                        <div class="col-md-auto">
+                            <div class="card-header">
+                                <h3 class="card-title">1.3 Acuracidade Cadastral</h3>
+                            </div>
+                            <!-- /.progress-group -->
+                            <!--[GrfUser]-->
+                            <div class="progress-group">
+                                {$0}
+                                <span class="float-right"><b>{$1} {$4}%</b>({$2}/{$3})</span>
+                                <div class="progress progress-sm">
+                                    <div class="progress-bar {$6}" style="width: {$4}%"></div>
+                                </div>
+                            </div>
+                            <!--[/GrfUser]-->
+                            <!-- /.progress-group -->
+                        </div>
+                    </div>
+                </div>
+                <!-- /.col -->
+
+                <!-- /.nav-tabs-custom -->
+            </div>
+            <!-- /.col -->
+        </div>
+        <!-- /.row -->
+    </div><!-- /.container-fluid -->
+</section>
+<!-- /.content-wrapper -->
+<!--
+<footer class="main-footer">
+    <div class="float-right d-none d-sm-block">
+        <b>Version</b> 3.0.0-rc.1
+    </div>
+    <strong>Copyright &copy; 2014-2019 <a href="http://adminlte.io">AdminLTE.io</a>.</strong> All rights
+    reserved.
+</footer>
+-->
+<!-- Control Sidebar -->
+<aside class="control-sidebar control-sidebar-dark">
+    <!-- Control sidebar content goes here -->
+</aside>
+<!-- /.control-sidebar -->
+
+
+<!--[/main]-->

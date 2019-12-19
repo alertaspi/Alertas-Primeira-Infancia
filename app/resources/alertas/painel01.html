@@ -1,0 +1,307 @@
+<!--[main]-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+
+    </head>
+    <body>
+
+        <div class="content">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <!-- /.row -->
+                        <!-- Origem de Cadastro -->
+                        <div class="row">
+                            <div class="col-12">
+                                <div class="card">
+                                    <div class="card-header">
+                                        <h3 class="card-title">2.4 Origem de Cadastro</h3>
+
+                                    </div>
+                                    <!-- /.card-header -->
+                                    <div class="card-body table-responsive p-0" style="height: 300px;">
+                                        <table class="table table-head-fixed">
+                                            <thead>
+                                                <tr>
+                                                    <th>Sistema</th>
+                                                    <th>Qtd Cadastros</th>
+                                                    <th>%</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <!--[GrpSistemas]-->
+                                                <tr>
+                                                    <td>{$0}</td>
+                                                    <td><span class="tag tag-success">{$1}</span></td>
+                                                    <td>{$2}</td>                                                    
+                                                </tr>
+                                                <!--[/GrpSistemas]-->
+                                                <tr>
+                                                    <td>Total</td>
+                                                    <td>{$total1}</td>
+                                                    <td>&nbsp;</td>
+                                                </tr>
+
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <!-- /.card-body -->
+                                </div>
+                                <!-- /.card -->
+                            </div>
+                        </div>
+                        <!-- /.row -->
+                        <hr>
+                        <!-- /.card -->
+                        <!-- Precisão dos Dados -->
+                        <div class="card">
+                            <div class="card-header">
+                                <h3 class="card-title">2.6 Precisão dos Dados</h3>
+                            </div>
+                            <div class="card-body p-0">
+                                <table class="table table-striped table-valign-middle">
+                                    <thead>
+                                        <tr>
+                                            <th>DADOS DE CADASTRO</th>
+                                            <th>Nº TOTAL</th>
+                                            <th>% EXISTENTE</th>
+                                            <th>% PENDENTE</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <!--[GrpPerfil]-->
+                                        <tr>
+                                            <td>
+                                                Nome
+                                            </td>
+                                            <td>{$0}</td>
+                                            <td>
+                                                {$1}%
+                                            </td>
+                                            <td>
+                                                {$2}%
+                                            </td>
+                                        </tr>                                        
+                                        <tr>
+                                            <td>
+                                                Data de Nascimento
+                                            </td>
+                                            <td>{$3}</td>
+                                            <td>
+                                                {$4}%
+                                            </td>
+                                            <td>
+                                                {$5}%
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                Nome da Mãe
+                                            </td>
+                                            <td>{$6}</td>
+                                            <td>
+                                                {$7}%
+                                            </td>
+                                            <td>
+                                                {$8}%
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                Nome do Pai
+                                            </td>
+                                            <td>{$9}</td>
+                                            <td>
+                                                {$10}%
+                                            </td>
+                                            <td>
+                                                {$11}%
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                CPF
+                                            </td>
+                                            <td>{$12}</td>
+                                            <td>
+                                                {$13}%
+                                            </td>
+                                            <td>
+                                                {$14}%
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                Cartão SUS
+                                            </td>
+                                            <td>{$15}</td>
+                                            <td>
+                                                {$16}%
+                                            </td>
+                                            <td>
+                                                {$17}%
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                Fone
+                                            </td>
+                                            <td>{$18}</td>
+                                            <td>
+                                                {$19}%
+                                            </td>
+                                            <td>
+                                                {$20}%
+                                            </td>
+                                        </tr>                                        
+                                        <!--[/GrpPerfil]-->
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <!-- /.card -->
+                    </div>
+                    <!-- /.col-md-6 -->
+                    <!-- 2.2 Cobertura de Atividades -->
+                    <!--
+                                        <div class="col-lg-6">
+                                            <div class="card">
+                                                <div class="card-header border-0">
+                                                    <div class="card-header">
+                                                        <h3 class="card-title">2.2 Cobertura de Atividades</h3>
+                                                    </div>
+                                                </div>
+                                                <div class="card-body">
+                                                    <div class="position-relative mb-10">
+                                                        <canvas id="sales-chart" height="200"></canvas>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            
+                                            <hr>
+                    -->
+                    <!-- Acuracidade dos Dados -->
+                    <!-- /.col -->
+                    <div class="col-lg-auto">
+                        <div class="card">
+                            <div class="col-md-auto">
+                                <div class="card-header">
+                                    <h3 class="card-title">2.5 Acuracidade Cadastral</h3>
+                                </div>
+                                <!--[GrpCadastro]-->
+                                <div class="progress-group">
+                                    {$0} {$1}
+                                    <span class="float-right"><b>{$4}%</b></span>
+                                    <div class="progress progress-sm">
+                                        <div class="progress-bar bg-primary" style="width: {$4}%"></div>
+                                    </div>
+                                </div>
+                                <!--[/GrpCadastro]-->
+                            </div>
+                        </div>
+                    </div>
+                    <!-- /.col -->
+                    <hr>
+                    <!-- Alertas em Aberto -->
+                    <!-- /.card -->
+                    <!--
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">1.6 Alertas em Aberto</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <div class="chart-responsive">
+                                        <canvas id="pieChart" height="150"></canvas>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="chart-legend clearfix">
+                                        <li><i class="far fa-circle text-danger"></i> Acompanhamento Pré Natal</li>
+                                        <li><i class="far fa-circle text-blue"></i>  Proteção a Criança em Situação de Risco</li>
+                                        <li><i class="far fa-circle text-gray"></i> Gestantes Adolescentes Fora do FQA</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-footer bg-white p-0">
+                            <ul class="nav nav-pills flex-column">
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Educação
+                                        <span class="float-right text-danger">
+                                            <i class="fas fa-arrow-down text-sm"></i>
+                                            12%</span>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Saúde
+                                        <span class="float-right text-success">
+                                            <i class="fas fa-arrow-up text-sm"></i> 4%
+                                        </span>
+                                    </a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Social
+                                        <span class="float-right text-warning">
+                                            <i class="fas fa-arrow-left text-sm"></i> 0%
+                                        </span>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    -->
+                    <!-- /.footer -->
+
+                </div>
+            </div>
+
+            <!-- /.col-md-6 -->
+        </div>
+        <!-- /.row -->
+    </div>
+    <!-- /.container-fluid -->
+</div>
+
+<!-- OPTIONAL SCRIPTS -->
+<script src="plugins/chart.js/Chart.min.js"></script>
+<script src="dist/js/demo.js"></script>
+<script src="dist/js/pages/dashboard3.js"></script>
+
+<script>
+    var pieChartCanvas = $('#pieChart').get(0).getContext('2d')
+    var pieData = {
+        labels: [
+            'Acompanhamento Pré Natal 2019',
+            'Proteção a Criança em Situação de Risco',
+            'Gestantes Adolecente Fora do FQA',
+        ],
+        datasets: [
+            {
+                data: [200, 300, 100],
+                backgroundColor: ['#00c0ef', '#3c8dbc', '#d2d6de'],
+            }
+        ]
+    }
+    var pieOptions = {
+        legend: {
+            display: false
+        }
+    }
+    //Create pie or douhnut chart
+    // You can switch between pie and douhnut using the method below.
+    var pieChart = new Chart(pieChartCanvas, {
+        type: 'doughnut',
+        data: pieData,
+        options: pieOptions
+    })
+</script>
+</body>
+</html>
+<!--[/main]-->
