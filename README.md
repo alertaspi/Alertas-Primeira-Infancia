@@ -18,7 +18,6 @@ Para facilitar a replicação do projeto estão disponiveis materiais e arquivos
 2. Arquivos que compoem a plataforma
 - [Front End](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Front-End:-Adianti-com-o-Template)
 - [Back End](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Back-End:-Banco-de-Dados-com-Estrutura-de-Tabelas)
-- [Scripts](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Scripts:-4-Scripts-de-Importa%C3%A7%C3%A3o)
 
 3. Como administrar a plataforma, conteudo orientado ao tecnico responsável por manter o funcionamento da plataforma
 - [Administrar Sistema provedores de dados](https://github.com/alertaspi/Alertas-Primeira-Infancia/wiki/Administrar-Sistemas-Provedores-de-Dados)
